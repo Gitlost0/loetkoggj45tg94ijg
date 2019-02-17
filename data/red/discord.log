@@ -1,0 +1,5 @@
+[12/11/2017 21:39] WARNING voice_client play_audio 693: A packet has been dropped (seq: 15670, timestamp: 15042240)
+[12/11/2017 21:39] WARNING voice_client play_audio 693: A packet has been dropped (seq: 15671, timestamp: 15043200)
+[12/11/2017 21:39] WARNING voice_client play_audio 693: A packet has been dropped (seq: 15672, timestamp: 15044160)
+[15/11/2017 20:29] WARNING gateway run 78: We have stopped responding to the gateway.
+[16/02/2019 23:59] WARNING client __init__ 164: PyNaCl is not installed, voice will NOT be supported
